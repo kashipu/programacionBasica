@@ -6,3 +6,6 @@ Saltando la explicación inicial
 
 ### Marte.html / Codigo del segmento
 
+- Variables
+- Condicionales
+- 
